@@ -1,1 +1,21 @@
 Név;Mióta;Műfaj;Kiadott_számok;Kiadott_albumok;Azonosító
+Ethan Blackwell;1987;Jazz;26;9;A1
+Mia Rodriguez;2003;Reggae;12;3;B2
+Sebastian Thompson;1975;Funk;39;7;C3
+Lily Chen;1998;Country;18;1;D4
+Jacob Patel;2010;Electronic Dance Music (EDM);32;5;E5
+Sofia Ramirez;1956;Classical;8;8;F6
+Gavin Williams;1983;Blues;45;2;G7
+Isabella Nguyen;1969;Hip Hop;22;4;H8
+Caleb Johnson;2001;Heavy Metal;15;6;I9
+Ava Smith;1972;Indie Rock;37;10;J10
+Lucas Martin;1993;Salsa;7;1;K11
+Harper Brown;1965;Folk;28;3;L12
+Logan Garcia;2018;R&B (Rhythm and Blues);49;8;M13
+Emily Wilson;1980;Dubstep;20;5;N14
+Owen Lee;1952;Gospel;41;9;O15
+Zoey Taylor;2007;Techno;10;7;P16
+Wyatt Lewis;1990;Punk;30;2;Q17
+Aria Clark;1978;Bossa Nova;25;6;R18
+Mason Walker;1963;Ambient;48;4;S19
+Grace Cooper;2015;Grunge;16;10;T20
