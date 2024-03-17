@@ -1,1 +1,1 @@
-Azonosító;Név;Születés;Szerep;Nettó_érték;Havi_hallgatók
+

@@ -1,21 +1,21 @@
-Név;Mióta;Műfaj;Kiadott_számok;Kiadott_albumok;Azonosító
-Ethan Blackwell;1987;Jazz;26;9;A1
-Mia Rodriguez;2003;Reggae;12;3;B2
-Sebastian Thompson;1975;Funk;39;7;C3
-Lily Chen;1998;Country;18;1;D4
-Jacob Patel;2010;Electronic Dance Music (EDM);32;5;E5
-Sofia Ramirez;1956;Classical;8;8;F6
-Gavin Williams;1983;Blues;45;2;G7
-Isabella Nguyen;1969;Hip Hop;22;4;H8
-Caleb Johnson;2001;Heavy Metal;15;6;I9
-Ava Smith;1972;Indie Rock;37;10;J10
-Lucas Martin;1993;Salsa;7;1;K11
-Harper Brown;1965;Folk;28;3;L12
-Logan Garcia;2018;R&B (Rhythm and Blues);49;8;M13
-Emily Wilson;1980;Dubstep;20;5;N14
-Owen Lee;1952;Gospel;41;9;O15
-Zoey Taylor;2007;Techno;10;7;P16
-Wyatt Lewis;1990;Punk;30;2;Q17
-Aria Clark;1978;Bossa Nova;25;6;R18
-Mason Walker;1963;Ambient;48;4;S19
-Grace Cooper;2015;Grunge;16;10;T20
+Név;Műfaj;Szerep;Kiadott_számok;Kiadott_albumok;Születés;Nettó_érték;Havi_hallgatók;Mióta;
+Ethan Blackwell;Jazz;Piano;26;9;1983;1,328,576;33,575;2000
+Mia Rodriguez;Reggae;Guitar;12;3;1975;3,987,221;78,941;1998
+Sebastian Thompson;Funk;Violin;39;7;1998;7,542,989;14,287;2010
+Lily Chen;Country;Flute;18;1;1987;2,456,788;5,623;2000
+Jacob Patel;Electronic Dance Music (EDM);Trumpet;32;5;2000;5,632,111;92,346;2020
+Sofia Ramirez;Classical;Drum set;8;8;1992;9,874,332;60,018;2010
+Gavin Williams;Blues;Saxophone;45;2;1971;4,245,901;8,754;1996
+Isabella Nguyen;Hip Hop;Cello;22;4;1985;6,789,543;42,109;2010
+Caleb Johnson;Heavy Metal;Clarinet;15;6;1978;8,764,223;71,234;2006
+Ava Smith;Indie Rock;Banjo;37;10;1996;1,234,567;29,876;2013
+Lucas Martin;Salsa;Harp;7;1;1973;3,456,789;3,421;1995
+Harper Brown;Folk;Ukulele;28;3;1989;9,876,543;55,432;2007
+Logan Garcia;R&B (Rhythm and Blues);Trombone;49;8;1990;5,432,109;88,765;2012
+Emily Wilson;Dubstep;Accordion;20;5;1977;2,109,876;10,987;2000
+Owen Lee;Gospel;Xylophone;41;9;2001;4,321,098;67,543;2023
+Zoey Taylor;Techno;French horn;10;7;1980;7,654,321;19,876;1998
+Wyatt Lewis;Punk;Mandolin;30;2;1994;8,765,432;37,892;2019
+Aria Clark;Bossa Nova;Bass guitar;25;6;1982;6,543,210;83,245;2008
+Mason Walker;Ambient;Oboe;48;4;1976;3,210,987;24,567;1997
+Grace Cooper;Grunge;Conga drums;16;10;1999;9,087,654;96,321;2020
