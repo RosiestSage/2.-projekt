@@ -8,4 +8,9 @@ class Banda:
         self.netto_ertek = int(adatok[4].replace(",", ""))
         self.havi_hallgatok = int(adatok[5].replace(",", ""))
         
-        
+    '''def banda(self, bandak: str):
+        if bandak in self.azonosito.keys():
+            self.azonosito[bandak] += 1
+        else:
+            self.azonosito[bandak] += 1'''
+

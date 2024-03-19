@@ -1,6 +1,6 @@
 Azonosító;Név;Születés;Szerep;Nettó_érték;Havi_hallgatók
-L12;Fütyy Mihály;1988;gitár;100000;5000
-L12;Gáspár Géza;1980;ének;100000;5000
-L12;Nagy Péter Kornél;1981;dob;100000;5000
-L12;Gecz Imre;1978;basszusgitár;100000;5000
+L12;Fütyy Mihály;1988;gitár;100,000;5,000
+L12;Gáspár Géza;1980;ének;100,000;5,000
+L12;Nagy Péter Kornél;1981;dob;100,000;5,000
+L12;Gecz Imre;1978;basszusgitár;100,000;5,000
 X89;lófasz;1000;szexofon;9;1
