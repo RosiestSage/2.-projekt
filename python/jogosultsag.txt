@@ -1,1 +1,3 @@
 felhasznalo_nev;jelszo;jogosultsag
+Kis Pista;abcd;izgató
+Kisebb Pista;1234;vendég
