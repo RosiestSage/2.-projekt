@@ -1,4 +1,4 @@
-from bandak import Banda
+from zeneszek import Banda
 import os
 
 bandak: list[Banda] = []
@@ -46,6 +46,8 @@ def hallgatas():
             print(f'A legkevesebbet hallgatott banda: {b.azonosito}')'''
 
 def ev():
+    pass
+
 
 def banda_szerep():
     szerepek = {}

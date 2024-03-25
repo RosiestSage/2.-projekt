@@ -1,4 +1,4 @@
-from bandak import Banda
+from zeneszek import Banda
 import os
 
 bandak: list[Banda] = []
@@ -18,13 +18,15 @@ def main():
                 return egyedulallo()
             case '4':
                 return modositas()
-    
+            case '0':
+                return quit()
 def menu():
     os.system('cls')
     print('1 - Statisztika')
     print('2 - Bandák')
     print('3 - Egyedülálló')
     print('4 - Módosítás')
+    print('\n0 - Kilépés')
     return input('\nVálasztás: ')
 
 def statisztika():
@@ -163,7 +165,7 @@ def G3():
     pass
 
 def banda_beolvasas():
-    f = open('2.-projekt/python/banda.txt', 'r', encoding='utf-8')
+    f = open('python/banda.txt', 'r', encoding='utf-8')
     f.readline()
     for row in f:
         bandak.append(Banda(row))

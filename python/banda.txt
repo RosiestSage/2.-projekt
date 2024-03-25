@@ -1,6 +1,9 @@
-Azonosító;Név;Születés;Szerep;Nettó_érték;Havi_hallgatók
-L12;Fütyy Mihály;1988;gitár;100,000;5,000
-L12;Gáspár Géza;1980;ének;100,000;5,000
-L12;Nagy Péter Kornél;1981;dob;100,000;5,000
-L12;Gecz Imre;1978;basszusgitár;100,000;5,000
-X89;lófasz;1000;szexofon;9;1
+Banda_név;Név;Műfaj;Szerep;Kiadott_számok;Kiadott_albumok;Születés;Nettó_érték;Havi_hallgatók;Mióta;
+Ad Hoc;Páli Dávid;Metál;gitár;1;0;2007;20000;0;2023
+Ad Hoc;Bukits Gergő;Metál;gitár;1;0;2006;20000;0;2023
+Ad Hoc;Wellner Gergő;Metál;basszusgitár;1;0;2006;20000;0;2023
+Ad Hoc;Nagy Péter Kornél Ferenc;Metál;dob és ének;1;0;2008;20000;0;2023
+Negyednégy;Agg Márton;alternatívrock;gitár és ének;1;1;2009;40000;1000;2022
+Negyednégy;;alternatívrock;;1;1;;40000;1000;2022
+Negyednégy;;alternatívrock;;1;1;;40000;1000;2022
+Negyednégy;;alternatívrock;;1;1;;40000;1000;2022
