@@ -1,4 +1,4 @@
-from bandak import Banda
+from zeneszek import Banda
 import os
 
 bandak: list[Banda] = []
@@ -18,13 +18,15 @@ def main():
                 return egyedulallo()
             case '4':
                 return modositas()
-    
+            case '0':
+                return quit()
 def menu():
     os.system('cls')
     print('1 - Statisztika')
     print('2 - Bandák')
     print('3 - Egyedülálló')
     print('4 - Módosítás')
+    print('\n0 - Kilépés')
     return input('\nVálasztás: ')
 
 def statisztika():
