@@ -4,6 +4,6 @@ Ad Hoc;Bukits Gergő;Metál;gitár;1;0;2006;20000;0;2023
 Ad Hoc;Wellner Gergő;Metál;basszusgitár;1;0;2006;20000;0;2023
 Ad Hoc;Nagy Péter Kornél Ferenc;Metál;dob és ének;1;0;2008;20000;0;2023
 Negyednégy;Agg Márton;alternatívrock;gitár és ének;1;1;2009;40000;1000;2022
-Negyednégy;;alternatívrock;;1;1;;40000;1000;2022
-Negyednégy;;alternatívrock;;1;1;;40000;1000;2022
-Negyednégy;;alternatívrock;;1;1;;40000;1000;2022
+Negyednégy;Tulok Ágoston;alternatívrock;gitár;1;1;2007;40000;1000;2022
+Negyednégy;Tengi a cigány;alternatívrock;dob;1;1;2004;40000;1000;2022
+Negyednégy;Saci the big guy;alternatívrock;basszusgitár;1;1;2005;40000;1000;2022
