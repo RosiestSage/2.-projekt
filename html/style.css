@@ -43,7 +43,12 @@
       width:250px;
       
 }
-  
+
+.kard {
+    height: 325 px;
+    width: 300 px;
+}
+
   /* Responsive columns */
 @media screen and (max-width: 600px) {
     .column {

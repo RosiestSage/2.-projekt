@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" modified="2024-03-25T12:25:42.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3jrNDjVKwWsp8D8Zl0fq" version="24.1.0" type="github">
+  <diagram name="1 oldal" id="cgaxb-VZizNbB-tiwhAR">
+    <mxGraphModel dx="989" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AF1UKYks4T8CphhcIONg-1" value="menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF1UKYks4T8CphhcIONg-2" target="AF1UKYks4T8CphhcIONg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-2" value="statisztika" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-3" value="bandák" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-4" value="egyedülálló" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-5" value="módosítás" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF1UKYks4T8CphhcIONg-1" target="AF1UKYks4T8CphhcIONg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF1UKYks4T8CphhcIONg-1" target="AF1UKYks4T8CphhcIONg-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF1UKYks4T8CphhcIONg-1" target="AF1UKYks4T8CphhcIONg-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF1UKYks4T8CphhcIONg-1" target="AF1UKYks4T8CphhcIONg-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-12" value="Regisztráció/Belépés" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF1UKYks4T8CphhcIONg-12" target="AF1UKYks4T8CphhcIONg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-16" value="Opciók" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-20" value="Havi bevétel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="AF1UKYks4T8CphhcIONg-16">
+          <mxGeometry x="10" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-21" value="Hány zenész + zenész" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-16">
+          <mxGeometry x="10" y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-23" value="Össz album + szám" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-16">
+          <mxGeometry x="10" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-26" value="Opciók" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-28" value="Tag keresés(adatai)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-26">
+          <mxGeometry x="-10" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-29" value="Lista(adatok)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-26">
+          <mxGeometry y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-30" value="Legtöbbet/legkevesebbet kiadott" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-26">
+          <mxGeometry x="-10" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-31" value="Legtöbbet/legkevesebbet hallgatott" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-26">
+          <mxGeometry x="-6" y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-32" value="Legújabb/legfiatalabb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-26">
+          <mxGeometry x="-6" y="110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF1UKYks4T8CphhcIONg-3" target="AF1UKYks4T8CphhcIONg-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-33" value="Opciók" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-37" value="Személy keresés" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-33">
+          <mxGeometry x="4" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-38" value="Lista(adatok)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-33">
+          <mxGeometry x="4" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-39" value="Legtöbbet/legkevesebbet&lt;div&gt;&amp;nbsp;kiadott&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-33">
+          <mxGeometry x="10" y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-40" value="Legtöbbet/legkevesebbet&lt;div&gt;&amp;nbsp;hallgatott&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-33">
+          <mxGeometry x="10" y="100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-41" value="Legújabb/legfiatalabb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-33">
+          <mxGeometry y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF1UKYks4T8CphhcIONg-4" target="AF1UKYks4T8CphhcIONg-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-42" value="Opciók" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-44" value="Banda felvevése" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-42">
+          <mxGeometry y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-47" value="Személy felvevése" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-42">
+          <mxGeometry y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-48" value="Kirúgás" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-42">
+          <mxGeometry y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-49" value="Rang módosítás" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AF1UKYks4T8CphhcIONg-42">
+          <mxGeometry y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF1UKYks4T8CphhcIONg-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF1UKYks4T8CphhcIONg-5" target="AF1UKYks4T8CphhcIONg-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
