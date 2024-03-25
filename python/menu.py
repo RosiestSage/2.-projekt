@@ -180,7 +180,7 @@ def banda_legkevesebbet_kiadott():
     os.system('cls')
     legkevesebbet_kiadott = bandak[0]
     for b in bandak:
-        if legkevesebbet_kiadott. < b.:
+        #if legkevesebbet_kiadott. < b.:
             legkevesebbet_kiadott = b
     print(f'Legtöbbet hallgatott banda: {legkevesebbet_kiadott.bandanev}')
     input('\n<Vissza>')

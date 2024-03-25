@@ -26,3 +26,7 @@ class Banda:
         self.netto_ertek = int(adatok[7].replace(",", ""))
         self.havi_hallgatok = int(adatok[8].replace(",", ""))
         self.miota = int(adatok[9])
+
+class Felhasznalo:
+    def __init__(self, sor: str):
+        pass
